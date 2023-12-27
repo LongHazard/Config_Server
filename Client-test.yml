@@ -5,7 +5,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/config_test
+    url: jdbc:postgresql://localhost:5432/config_dev
     username: postgres
     password: postgres
     hikari:
